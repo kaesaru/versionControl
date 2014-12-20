@@ -1,0 +1,28 @@
+File: cheatSheet
+Date: 12/13/14
+By: Kaesaru
+
+git init  //will initialize the current directory
+git add [file]  //adds file to the staging area?
+git commit 
+
+
+git log --graph -oneline
+git log
+git status
+git clone
+git 
+
+
+git branch
+git branch [branch name]
+
+
+
+
+
+git remote  //list the remotes 
+git remote add [remoteName] [url]
+git remote -v 
+
+git push origin master //origin is the remote name, changes were on master branch

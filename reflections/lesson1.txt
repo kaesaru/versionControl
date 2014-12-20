@@ -1,0 +1,66 @@
+
+File: Lesson 1
+Date: 12/12/14
+By: Kaesaru
+Purpose: A document for relecting on a version-control course on UDACITY
+
+@ How did viewing a diff between two versions of a file help you see the 
+bug that was introduced?
+
+- It quickly shows you the difference in two files and without searching for 
+it like I did which took me some time and I was looking more for the bug rather
+than the changes that where in the file. 
+
+@ How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+- Allows you to go back to older version if the newer version did not work well
+or take older code to use for the newer version.
+
+@ What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google
+does?
+
+Pros
+- changes are more logical and easy to compare
+- there are fewer versions to compare
+- write useful notes 
+
+Cons
+- human error, not sure when too commit and do so too often or too little
+
+@ Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+- Some version control systems are designed for different reasons. Git is one 
+designed for people like programmers who make and create files that are a part
+of a larger program and relate to one another in some way shape or form.
+On the other hand Google Docs, is more of a VCS that deals with files that
+do not relate to one another and is for people who do not need to deal with
+a number of files that relate to a bigger file or program like a report. 
+
+@ How can you use the commands git log and git diff to view the history
+of files?
+
+- You can use git log by getting a list of the commits/versions of that repo
+then use the git diff to compare those two. 
+
+@ How might using version control make you more confident to make changes that
+break something?
+
+- With verison control you do not have to worry about if you mess something up 
+or do something wrong because you can look at the changes you made and go to 
+previous versions to see if the same bug is occuring. Also make you willing to 
+take bigger risk that could changed the code or program dramatically.
+
+
+@Now that you have your workspace set up, what do you want to try using Git for?
+
+- Really I just want to learn how to use it so I can create programs and use it 
+for keeping a track of things I start to learn for programing. Also for getting
+help with my code from friends
+
+
+
+
+
