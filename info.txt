@@ -1,0 +1,5 @@
+This folder is used for a course called "How to Use Git and Github" on Udacity.
+
+This link shows you how to set up GitHub:
+http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+
